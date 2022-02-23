@@ -1,0 +1,103 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar {
+	width: 100%;
+	height: 50px;
+	background-color: #212121;
+}
+
+.navbar-container {
+	display: flex;
+	align-items: center;
+	padding: 0 50px;
+	height: 100%;
+	color: #fff;
+	font-family: 'Sen', sans-serif;
+}
+
+/* logo */
+.logo-container {
+	flex: 1;
+}
+
+.logo {
+	font-size: 30px;
+	color: #2eb086;
+}
+
+/* menu */
+.menu-container {
+	flex: 6;
+}
+
+.menu-list {
+	display: flex;
+	list-style: none;
+}
+
+.menu-list-item.active {
+	font-weight: bold;
+}
+
+.menu-list-item {
+	margin-right: 30px;
+}
+
+/* profile */
+.profile-container {
+	flex: 2;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.profile-picture {
+	border-radius: 50%;
+}
+
+.profile-text-container {
+	margin: 0 20px;
+}
+
+.toggle {
+	width: 40px;
+	height: 20px;
+	background-color: #fff;
+	border-radius: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	position: relative;
+}
+
+.toggle-icon {
+	color: #212121;
+}
+
+.toggle-ball {
+	width: 18px;
+	height: 18px;
+	background-color: #212121;
+	position: absolute;
+	right: 1px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+/* SIDEBAR */
+
+.sidebar {
+	width: 50px;
+	height: 100%;
+	background-color: #212121;
+	position: fixed;
+	top: 0;
+}
