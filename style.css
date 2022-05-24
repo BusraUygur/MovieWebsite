@@ -130,10 +130,11 @@ body {
 .featured-content {
 	height: 50vh;
 	padding: 50px;
+	align-items: left;
 }
 
 .featured-title {
-	width: 200px;
+	width: 300px;
 }
 
 .featured-desc {
@@ -253,6 +254,7 @@ body {
 
 .movie-list-title.active {
 	color: #151515;
+	padding-top: 50px;
 }
 
 .navbar-container.active {
