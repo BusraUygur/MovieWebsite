@@ -1,6 +1,6 @@
 # <a>Movie Website</a>
 
-[![Author](https://img.shields.io/badge/Author-Busra%20Uygur%20Barut-blue.svg)](https://www.linkedin.com/in/busra-uygur-barut-674b5723b/))
+[![Author](https://img.shields.io/badge/Author-Busra%20Uygur%20Barut-blue.svg)](https://www.linkedin.com/in/busra-uygur-barut-674b5723b/)
 
  <p align="justify">This website serves as a movie website with movies, series, popular and my list sections allowing user to slide through. It was created using HTML, CSS and Javascript.</p>
 
