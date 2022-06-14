@@ -17,7 +17,7 @@ arrows.forEach((arrow, i) => {
 	});
 });
 
-// TOOGLE
+// TOGGLE
 const ball = document.querySelector('.toggle-ball');
 const items = document.querySelectorAll(
 	'.container,.movie-list-title,.navbar-container,.sidebar,.sidebar-icon,.toggle'
